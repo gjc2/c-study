@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/map1.jpg</file>
+        <file>image/map2.jpg</file>
+        <file>image/map3.jpg</file>
+        <file>image/position.png</file>
+        <file>image/tower1.jpg</file>
+        <file>image/monster1.jpg</file>
+        <file>image/bullet1.jpg</file>
+        <file>image/tower2.jpg</file>
+        <file>image/tower3.jpg</file>
+        <file>image/bullet2.jpg</file>
+        <file>image/bullet3.jpg</file>
+        <file>image/back.jpg</file>
+        <file>image/up.jpg</file>
+        <file>image/down.jpg</file>
+        <file>image/rules.jpg</file>
+        <file>image/background.jpg</file>
+    </qresource>
+</RCC>
