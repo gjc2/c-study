@@ -1,3 +1,3 @@
 # c-study
-my study of c++
+my study of c++\n
 a towerdefense game based on qt
